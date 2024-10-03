@@ -1,0 +1,53 @@
+header img {
+  height: 60px;
+  display: block;
+  margin: 0 auto;
+}
+body {
+  padding: 40px;
+}
+
+header {
+  font-family: "Frank Ruhl Libre", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  text-align: center;
+}
+header p {
+  padding: 20px;
+  border-top: 2px solid rgb(172, 172, 97);
+  text-align: center;
+  color: green;
+  background-color: rgb(245, 245, 209);
+}
+
+.main {
+  font-family: "Frank Ruhl Libre", serif;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+.box {
+  font-family: "Frank Ruhl Libre", serif;
+  text-align: center;
+}
+main img {
+  text-align: center;
+  border-radius: 10px 10px;
+}
+.sally {
+  color: rgb(122, 116, 116);
+}
+.main p {
+  border-left: solid;
+  padding-left: 10px;
+  border-left-width: 4px;
+  border-left-color: orange;
+  color: orange;
+}
+.footer {
+  text-align: left;
+  padding-left: 30%;
+  padding-right: 30%;
+}

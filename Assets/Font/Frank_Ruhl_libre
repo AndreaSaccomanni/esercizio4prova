@@ -1,0 +1,5 @@
+.frank-ruhl-libre-<uniquifier> {
+  font-family: "Frank Ruhl Libre", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
